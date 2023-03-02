@@ -1,0 +1,16 @@
+.filter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 2rem;
+}
+
+.filter > p{
+    margin: 0 1rem;
+}
+
+.filter-dates-holder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,5 +1,6 @@
 import './TopNavBar.css';
 import React from 'react';
+import Filter from '../../ui/filter/filter';
 
 const TopNavbar = () => {
   return (
@@ -14,6 +15,7 @@ const TopNavbar = () => {
         SkyHigh
       </h3>
     </span>
+    <Filter />
   </nav>
   )
   };
