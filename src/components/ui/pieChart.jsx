@@ -21,6 +21,7 @@ const PieChart = () => {
     borderColor: "grey",
     borderWidth: 1
   });
+  console.log(promotionData)
 
   return (
     <div>
